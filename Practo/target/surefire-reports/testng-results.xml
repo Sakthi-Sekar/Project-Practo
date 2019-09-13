@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-13T19:43:27 IST" name="Suite" finished-at="2019-09-13T19:44:38 IST" duration-ms="71436">
+    <groups>
+    </groups>
+    <test started-at="2019-09-13T19:43:27 IST" name="Test" finished-at="2019-09-13T19:44:38 IST" duration-ms="71436">
+      <class name="com.atmecs.practo.testscripts.RemoveFromCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.atmecs.practo.testscripts.RemoveFromCart@17c1bced]" started-at="2019-09-13T19:43:12 IST" name="setup" finished-at="2019-09-13T19:43:27 IST" duration-ms="14937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnDiagnostics()[pri:1, instance:com.atmecs.practo.testscripts.RemoveFromCart@17c1bced]" started-at="2019-09-13T19:43:27 IST" name="clickOnDiagnostics" finished-at="2019-09-13T19:44:30 IST" duration-ms="62625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnDiagnostics -->
+        <test-method signature="validateAfterAdd()[pri:2, instance:com.atmecs.practo.testscripts.RemoveFromCart@17c1bced]" started-at="2019-09-13T19:44:30 IST" name="validateAfterAdd" finished-at="2019-09-13T19:44:32 IST" duration-ms="2399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAfterAdd -->
+        <test-method signature="cartAfterRemovalOfSample()[pri:3, instance:com.atmecs.practo.testscripts.RemoveFromCart@17c1bced]" started-at="2019-09-13T19:44:32 IST" name="cartAfterRemovalOfSample" finished-at="2019-09-13T19:44:38 IST" duration-ms="6143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartAfterRemovalOfSample -->
+        <test-method signature="validateCartAfterRemoval()[pri:4, instance:com.atmecs.practo.testscripts.RemoveFromCart@17c1bced]" started-at="2019-09-13T19:44:38 IST" name="validateCartAfterRemoval" finished-at="2019-09-13T19:44:38 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartAfterRemoval -->
+      </class> <!-- com.atmecs.practo.testscripts.RemoveFromCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2019-09-13T19:44:39 IST" name="Practo" finished-at="2019-09-13T19:44:39 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Practo -->
+</testng-results>
